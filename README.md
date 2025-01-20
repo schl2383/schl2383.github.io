@@ -16,6 +16,8 @@ Ce projet consiste en une page web simple créée dans le cadre d'une étude sur
 
 ## Changelog
 - 8 janvier 2025 : Création initiale du projet
+- 13 janvier 2025 : Ajout du fichier robots.txt pour contrôler l'indexation des moteurs de recherche
+- 20 janvier 2025 : Ajout de l'url canonique pour améliorer l'indexation SEO
 
 ## Auteur
 Lili SCHMIDLIN (schl2383)
