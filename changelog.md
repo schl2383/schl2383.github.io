@@ -10,3 +10,7 @@
 
 ## 20 janvier 2025
 - Ajout de l'url canonique pour améliorer l'indexation SEO.
+
+## 5 février 2025
+- Mise à jour du contenu de la page.
+- Changement complet du design du site.
