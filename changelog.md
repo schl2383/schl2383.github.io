@@ -14,3 +14,7 @@
 ## 5 février 2025
 - Mise à jour du contenu de la page.
 - Changement complet du design du site.
+
+## 4 mars 2025
+- Changement de quelques balises
+- Ajout des champs "alt" pour les images
