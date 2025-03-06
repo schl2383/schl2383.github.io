@@ -18,3 +18,6 @@
 ## 4 mars 2025
 - Changement de quelques balises
 - Ajout des champs "alt" pour les images
+
+## 6 mars 2025
+- Ajout des fichiers pour le site en français
