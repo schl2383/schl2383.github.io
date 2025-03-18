@@ -14,14 +14,6 @@ Ce projet consiste en une page web simple créée dans le cadre d'une étude sur
 └── README.md       # Documentation du projet
 ```
 
-## Changelog
-- 8 janvier 2025 : Création initiale du projet
-- 13 janvier 2025 : Ajout du fichier robots.txt pour contrôler l'indexation des moteurs de recherche
-- 20 janvier 2025 : Ajout de l'url canonique pour améliorer l'indexation SEO
-- 5 février 2025 : Mise à jour du contenu du site
-- 4 mars 2025 : Changement de quelques balises et ajout des champs "alt" pour les images
-- 6 mars 2025 : Ajout des fichiers pour le site en français
-
 ## Auteur
 Lili SCHMIDLIN (schl2383)
 
