@@ -26,3 +26,6 @@
 - Complétion des balises méta pour l'indexation (changement 8)
 - Ajout des balises pour améliorer la gestion multilingue du site (changement 9)
 - Optimisation des images et des liens (changement 10)
+
+## Autre
+- Lien sur différents sites possédés par mon papa (web-aventure.fr, bonclic.com et media-pingpong.com)
